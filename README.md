@@ -1,7 +1,4 @@
-```markdown
-# Indian Cricketers Information Retrieval
-
-This project demonstrates a simple information retrieval system using embeddings from the HuggingFace library and cosine similarity to find relevant information about Indian cricketers.
+This project demonstrates a simple information retrieval system using embeddings from the HuggingFace library and cosine similarity to find relevant information.
 
 ## Requirements
 
