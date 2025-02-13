@@ -1,9 +1,3 @@
-Collecting workspace information
-
-Filtering to most relevant information
-
-Here is a `README.md` file for your project:
-
 ```markdown
 # Indian Cricketers Information Retrieval
 
@@ -86,6 +80,3 @@ print(scores)
 
 This project is licensed under the MIT License.
 ```
-
-Feel free to customize the `README.md` file as per your project's specific details and requirements.
-Feel free to customize the `README.md` file as per your project's specific details and requirements.
