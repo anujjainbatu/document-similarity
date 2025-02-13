@@ -2,7 +2,7 @@ This project demonstrates a simple information retrieval system using embeddings
 
 ## Requirements
 
-- Python 3.12
+- `Python 3.12`
 - `langchain_huggingface`
 - `python-dotenv`
 - `scikit-learn`
@@ -76,4 +76,3 @@ print(scores)
 ## License
 
 This project is licensed under the MIT License.
-```
